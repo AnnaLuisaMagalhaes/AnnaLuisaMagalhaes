@@ -2,6 +2,9 @@
 
 I've been passionate about coding for a while, so now I've decided to change my career path and face a new challenge!
 
+<details open>
+  <summary>About Me</summary>
+
 :house_with_garden: I’m from Brazil
 
 :books: I’m currently learning everything.
@@ -10,7 +13,7 @@ I've been passionate about coding for a while, so now I've decided to change my 
 
 🌎 travel addicted 
 
-Funfact about me: I speak 4 languages fluently. 
+💬 Funfact about me: I speak 4 languages fluently. 
 
 
 
